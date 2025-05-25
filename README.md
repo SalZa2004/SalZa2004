@@ -1,4 +1,16 @@
-## Welcome to Salvina's GitHub
+# Welcome to Salvina;s GitHub Page
+
+🎓 **Final-Year Mechanical Engineering Student**  
+📍 **University College London**  
+🧠 **Minor in Intelligent Systems**
+
+## Key Modules
+- Intelligent Systems  
+- Robotic Systems  
+- Machine Learning and Neural Computing  
+
+## 🤖 Interests
+Control & Autonomous Systems · Machine Learning · Artificial Intelligence
 
 
 ## 🌐 Socials:
