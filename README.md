@@ -1,6 +1,6 @@
 # Welcome to Salvina's GitHub Page
 
-🎓 **Final-Year Mechanical Engineering Student**  
+🎓 **MEng Mechanical Engineering @ UCL (First Class Honours)**  
 📍 **University College London**  
 🧠 **Minor in Intelligent Systems**
 
