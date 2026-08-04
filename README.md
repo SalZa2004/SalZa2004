@@ -1,13 +1,11 @@
 # Welcome to Salvina's GitHub Page
 
 🎓 **MEng Mechanical Engineering @ UCL (First Class Honours)**  
-📍 **University College London**  
-🧠 **Minor in Intelligent Systems**
 
 ## Key Modules
-- Intelligent Systems  
-- Robotic Systems  
-- Machine Learning and Neural Computing  
+- Robotic Systems (90%)
+- Machine Learning and Neural Computing
+- Control and Dynamics (72%)
 
 ## 🤖 Interests
 Control & Autonomous Systems · Machine Learning · Artificial Intelligence
